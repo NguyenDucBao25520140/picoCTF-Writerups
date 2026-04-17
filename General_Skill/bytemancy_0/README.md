@@ -2,7 +2,9 @@
 
 ## Mục tiêu
 Dưới đây là mô tả chi tiết từ đề bài:
-![Desciption](./images/Description.png)
+
+![Description](./images/Description.png)
+
 Giải mã và gửi đúng các ký tự dựa trên giá trị ASCII được yêu cầu tới máy chủ để lấy được nội dung cờ (flag).
 
 ## Phân tích
@@ -27,4 +29,5 @@ Server sẽ lập tức xác nhận và in ra flag:
 picoCTF{pr1n74813_ch4r5_1ade0c44}
 
 Các bước mình đã thực hiện để lấy flag:
+
 ![Steps to resolve](./images/Steps.png)

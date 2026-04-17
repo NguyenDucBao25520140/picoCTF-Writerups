@@ -23,7 +23,7 @@ Mở terminal và kết nối SSH vào máy chủ bằng lệnh sau (nhập mậ
 ```bash
 ssh dolphin-cove.picoctf.net -l ctf-player -p 54556
 ```
-![Step1](./images/Steps1.png)
+![Step1](./images/Step1.png)
 
 2. **Kiểm tra và đọc hướng dẫn:**
 Sử dụng lệnh ls để liệt kê các file, ta thấy có file instructions.txt và các file từ part_aa đến part_ae. Đọc nội dung file hướng dẫn:
@@ -52,4 +52,4 @@ picoCTF{z1p_and_spl1t_f1l3s_4r3_fun_81362b37}
 
 Các bước thực hiện còn lại:
 
-![Step2](./images/Steps2.png)
+![Step2](./images/Step2.png)

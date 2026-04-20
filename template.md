@@ -1,6 +1,9 @@
-# picoCTF Writeup - [Tén thir thdch]
+# picoCTF Writeup - Failure Failure
 
-## Muc tiéu
+## Mục tiêu
+
+
+
 [Mo ta ngan gon yéu cau cua bai toan va muc tiéu cudi cing 1a gi - vi du: lay noi dung
 file flag].
 
